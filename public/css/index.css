@@ -1,0 +1,29 @@
+.echoesGreenBg {
+    background: #386c72;
+}
+.echoesBlueBg {
+    background: #2d939f;
+}
+.echoesOrangeBg {
+    background: #c03c2d;
+}
+.echoesRedBg {
+    background: #962215;
+}
+.echoesGray {
+    color: darkgray;
+}
+.width100 {
+    width: 100%;
+}
+.bolder {
+    font-weight: bolder;
+}
+.btn.btn-primary {
+    background: #c03c2d;
+    border: 1px solid #c03c2d;
+}
+
+.displayNone {
+    display: none;
+}
