@@ -6,7 +6,7 @@ $(document).ready(function () {
     });
 
     $('#expandCommentBtn').on('click', (e) => {
-console.log("Expand!!");
+
         let isExpanded = !( $('#expandableComment').hasClass('displayNone') );
 
         console.log(isExpanded);
@@ -16,5 +16,28 @@ console.log("Expand!!");
         } else {
             $('#expandableComment').removeClass('displayNone');
         }
+    });
+
+    let $sidePane = $('#sidePane');
+    let $echoGroup = $('#echoGroup');
+
+    let sidePaneIsOpen = false;
+    $('.echoOne').on('click', () => {
+        if (sidePaneIsOpen) {
+
+            // open? Close it.
+            $sidePane.addClass('displayNone');
+            $echoGroup.removeClass('col-sm-6');
+            $echoGroup.addClass('col-sm-12');
+
+        } else {
+
+            // closed? Open it.
+            $sidePane.removeClass('displayNone');
+            $echoGroup.addClass('col-sm-6');
+            $echoGroup.removeClass('col-sm-12');
+        }
+
+        sidePaneIsOpen = !sidePaneIsOpen;
     });
 });

@@ -1,18 +1,3 @@
-<?php
-
-/**
- * "Controller". Takes last slug and renders that HTML file.
- */
-$uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
-$segments = explode('/', trim($uri, '/'));
-$lastSlug = end($segments);
-
-echo file_get_contents('./html/'.$lastSlug);
-
-
-exit;
-?>
-
 <html>
     <head>
         <title>Echoes Bible</title>
