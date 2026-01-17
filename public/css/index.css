@@ -4,11 +4,20 @@
 .echoesBlueBg {
     background: #2d939f;
 }
+.echoesDarkBlue {
+    color: #152b38;
+}
 .echoesOrangeBg {
     background: #c03c2d;
 }
+.echoesOrange {
+    color: #c03c2d;
+}
 .echoesRedBg {
     background: #962215;
+}
+.echoesRed {
+    color: #962215;
 }
 .echoesGray {
     color: darkgray;

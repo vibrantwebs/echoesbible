@@ -60,7 +60,8 @@
                         <b>Search</b> <input id="searchInput">
                     </div>
                     <div class="col-xs-2 col-sm-2 bolder">
-                        <a href="#">Login</a> | <a href="#">Sign Up</a>
+                        <a href="#" class="echoesDarkBlue">Login</a> | <a href="#" class="echoesDarkBlue">Sign Up</a>
+                        <i class="bi bi-person-circle"></i>
                     </div>
                 </div>
                 <hr>
