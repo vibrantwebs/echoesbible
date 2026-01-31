@@ -9,8 +9,6 @@ $(document).ready(function () {
 
         let isExpanded = !( $('#expandableComment').hasClass('displayNone') );
 
-        console.log(isExpanded);
-
         if (isExpanded) {
             $('#expandableComment').addClass('displayNone');
         } else {
@@ -20,7 +18,6 @@ $(document).ready(function () {
 
     let $sidePane = $('#sidePane');
     let $echoGroup = $('#echoGroup');
-
     let sidePaneIsOpen = false;
     $('.echoOne').on('click', () => {
         if (sidePaneIsOpen) {

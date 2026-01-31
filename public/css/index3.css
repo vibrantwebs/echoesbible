@@ -41,6 +41,11 @@
     text-align: left;
 }
 
+.echoHover {
+    color: red !important;
+    cursor: pointer;
+}
+
 body:has(.echoOne:hover) .echoOne {
     color: red !important;
 }
@@ -54,18 +59,16 @@ body:has(.echoTwo:hover) .echoTwo {
 .echoTwo:hover {
     cursor: pointer;
 }
+body:has(.echoThree:hover) .echoThree {
+    color: red !important;
+}
+.echoThree:hover {
+    cursor: pointer;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+body:has(.echoFour:hover) .echoFour {
+    color: red !important;
+}
+.echoFour:hover {
+    cursor: pointer;
+}
