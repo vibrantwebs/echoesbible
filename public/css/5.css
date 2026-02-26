@@ -1,0 +1,74 @@
+.echoesGreenBg {
+    background: #386c72;
+}
+.echoesBlueBg {
+    background: #2d939f;
+}
+.echoesDarkBlue {
+    color: #152b38;
+}
+.echoesOrangeBg {
+    background: #c03c2d;
+}
+.echoesOrange {
+    color: #c03c2d;
+}
+.echoesRedBg {
+    background: #962215;
+}
+.echoesRed {
+    color: #962215;
+}
+.echoesGray {
+    color: darkgray;
+}
+.width100 {
+    width: 100%;
+}
+.bolder {
+    font-weight: bolder;
+}
+.btn.btn-primary {
+    background: #c03c2d;
+    border: 1px solid #c03c2d;
+}
+
+.displayNone {
+    display: none;
+}
+
+.textLeft {
+    text-align: left;
+}
+
+.echoHover {
+    color: red !important;
+    cursor: pointer;
+}
+
+body:has(.echoOne:hover) .echoOne {
+    color: red !important;
+}
+.echoOne:hover {
+    cursor: pointer;
+}
+
+body:has(.echoTwo:hover) .echoTwo {
+    color: red !important;
+}
+.echoTwo:hover {
+    cursor: pointer;
+}
+body:has(.echoThree:hover) .echoThree {
+    color: red !important;
+}
+.echoThree:hover {
+    cursor: pointer;
+}
+
+body:has(.echoFour:hover) .echoFour {
+    color: red !important;
+}
+.echoFour:hover {
+    cursor: pointer;
+}
