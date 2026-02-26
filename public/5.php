@@ -15,7 +15,7 @@
 <div class="d-flex">
 
     <!-- Sidebar -->
-    <nav id="sidebarNav" class="bg-dark text-white p-3 vh-100" style="width: 250px;">
+    <nav id="sidebarNav" class="bg-dark text-white p-3 vh-100 sticky-top" style="width: 250px;">
         <img src="/image/echoes-logo.avif" class="width100 mb-3">
         <ul class="nav nav-pills flex-column gap-1">
             <li class="nav-item">
