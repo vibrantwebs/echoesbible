@@ -41,6 +41,9 @@ class User
     #[ORM\Column(name: 'password', length: 255)]
     private string $encryptedPassword;
 
+    #[ORM\Column(name: 'about_me')]
+    private string $aboutMe;
+
     #[ORM\Column(name: 'created_timestamp')]
     private DateTimeImmutable $createdTimestamp;
 
@@ -55,6 +58,7 @@ class User
         $this->lastName = trim($lastName);
         $this->email = trim($email);
         $this->encryptedPassword = $password;
+        $this->aboutMe = '';
         $this->createdTimestamp = new DateTimeImmutable();
     }
 

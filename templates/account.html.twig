@@ -15,8 +15,53 @@
 
 {% block body %}
 <div>
+    <br>
     <div class="container">
         <h1>My Account</h1>
+        <br>
+        <div class="row">
+            <div class="col-xs-12 col-sm-3">
+                <div class="card card-body" style="min-height: 500px;">
+                    <br>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="currentColor" class="bi bi-file-person-fill" viewBox="0 0 16 16">
+                        <path d="M12 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2m-1 7a3 3 0 1 1-6 0 3 3 0 0 1 6 0m-3 4c2.623 0 4.146.826 5 1.755V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-1.245C3.854 11.825 5.377 11 8 11"/>
+                    </svg>
+                    <br>
+                    <p><b>Edit Profile</b></p>
+                    <p><b>My Bookmarks</b></p>
+                    <p><b>Settings</b></p>
+                    <p><b><a id="logoutButton">Logout</a></b></p>
+                    <p><b><a href="/">Back to App</a></b></p>
+                </div>
+                <br>
+            </div>
+            <div class="col-xs-12 col-sm-9">
+                <div class="card card-body">
+                    <p><i>*** Populate data, clean up UI</i></p>
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                            <label for="firstName">First Name</label>
+                            <input id="firstName" class="form-control">
+                            <br>
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <label for="lastName">Last Name</label>
+                            <input id="lastName" class="form-control">
+                            <br>
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <label for="email">Email</label>
+                            <input id="email" class="form-control">
+                            <br>
+                        </div>
+                    </div>
+                    <br>
+                    <div>
+                        <button class="btn btn-primary">Save</button>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 {% endblock %}

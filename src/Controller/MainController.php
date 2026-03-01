@@ -3,6 +3,7 @@
 namespace App\Controller;
 
 use App\Action\Page\CreateAccountPage;
+use App\Action\Data\CreateAccount;
 use App\Action\Data\SidePaneData;
 use App\Action\Page\AccountPage;
 use App\Action\Page\LoginPage;
@@ -50,6 +51,12 @@ class MainController
     public function login(Login $login, Request $request): Response
     {
         return $login->run($request);
+    }
+
+    #[Route('/create-account', methods: ['POST'])]
+    public function createAccount(CreateAccount $createAccount, Request $request): Response
+    {
+        return $createAccount->run($request);
     }
 
     #[Route('/logout', methods: ['POST'])]

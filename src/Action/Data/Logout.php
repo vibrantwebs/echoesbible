@@ -10,11 +10,15 @@ use Symfony\Component\HttpFoundation\Request;
 
 class Logout extends AbstractAction {
 
-    public function __construct(private readonly AccountService $twig)
+    public function __construct(
+        private readonly AccountService $accountService
+    )
     {}
 
     public function run(Request $request): Response
     {
+        $this->accountService->endUserSession();
+
         return new JsonResponse([
             'message' => 'You logged out!'
         ]);
