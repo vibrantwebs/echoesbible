@@ -3,11 +3,16 @@
 {% block title %}Echoes Bible | Create Account{% endblock %}
 
 {% block scripts %}
+    {{ parent() }}
     <link rel="stylesheet" href="{{ asset('css/base.css') }}">
 {% endblock %}
 
 {% block styles %}
+    {{ parent() }}
     <script src="{{ asset('js/base.js') }}"></script>
+    <script src="{{ asset('js/create-account-page.js') }}"></script>
 {% endblock %}
 
-{% block body %}Create an Account{% endblock %}
+{% block body %}
+
+{% endblock %}
