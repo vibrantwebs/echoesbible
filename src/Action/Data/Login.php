@@ -15,6 +15,11 @@ class Login extends AbstractAction {
 
     public function run(Request $request): Response
     {
+        $email = $request->request->get('email');
+        $password = $request->request->get('password');
+
+        
+
         return new JsonResponse([
             'message' => 'You logged in!'
         ]);

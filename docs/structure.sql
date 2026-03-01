@@ -1,0 +1,11 @@
+CREATE DATABASE moose_echoesbible;
+
+CREATE TABLE users (
+	id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    email VARCHAR(200) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    first_name VARCHAR(100) NOT NULL,
+    last_Name VARCHAR(100) NOT NULL,
+    about_me TEXT NOT NULL,
+    created_timestamp DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
+);

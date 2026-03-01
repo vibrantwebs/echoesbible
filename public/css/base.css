@@ -32,6 +32,10 @@
     background: #c03c2d;
     border: 1px solid #c03c2d;
 }
+.btn.btn-primary:active {
+    background: #962215;
+    border: 1px solid #c03c2d;
+}
 
 .displayNone {
     display: none;
@@ -45,15 +49,7 @@
     text-align: left;
 }
 
-body:has(.echo[data-echo-id="1"]:hover) .echo[data-echo-id="1"],
-body:has(.echo[data-echo-id="2"]:hover) .echo[data-echo-id="2"],
-body:has(.echo[data-echo-id="3"]:hover) .echo[data-echo-id="3"],
-body:has(.echo[data-echo-id="4"]:hover) .echo[data-echo-id="4"],
-body:has(.echo[data-echo-id="5"]:hover) .echo[data-echo-id="5"],
-body:has(.echo[data-echo-id="6"]:hover) .echo[data-echo-id="6"],
-body:has(.echo[data-echo-id="7"]:hover) .echo[data-echo-id="7"],
-body:has(.echo[data-echo-id="8"]:hover) .echo[data-echo-id="8"]
-{
-    color: #c03c2d !important;
-    cursor: pointer;
+.pad25 {
+    padding: 25px;
 }
+

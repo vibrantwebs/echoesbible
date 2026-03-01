@@ -5,6 +5,7 @@
 {% block scripts %}
     {{ parent() }}
     <link rel="stylesheet" href="{{ asset('css/base.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/home.css') }}">
 {% endblock %}
 
 {% block styles %}
@@ -60,7 +61,7 @@
                     <b>Search</b> <input id="searchInput">
                 </div>
                 <div class="col-xs-2 col-sm-2 bolder">
-                    <a href="#" class="echoesDarkBlue">Login</a> | <a href="#" class="echoesDarkBlue">Sign Up</a>
+                    <a href="/login" class="echoesDarkBlue">Login</a> | <a href="/create-account" class="echoesDarkBlue">Sign Up</a>
                     <i class="bi bi-person-circle"></i>
                 </div>
             </div>

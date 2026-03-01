@@ -1,6 +1,6 @@
 import SidePane from '/js/home/side-pane.js';
 
-class HomeApp
+class HomePage
 {
     constructor() {
 
@@ -15,5 +15,5 @@ class HomeApp
 }
 
 $(document).ready(() => {
-    new HomeApp();
+    new HomePage();
 });

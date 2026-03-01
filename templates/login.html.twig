@@ -3,11 +3,51 @@
 {% block title %}Echoes Bible | Login{% endblock %}
 
 {% block scripts %}
+    {{ parent() }}
     <link rel="stylesheet" href="{{ asset('css/base.css') }}">
 {% endblock %}
 
 {% block styles %}
+    {{ parent() }}
     <script src="{{ asset('js/base.js') }}"></script>
+    <script src="{{ asset('js/login/login-page.js') }}" type="module"></script>
 {% endblock %}
 
-{% block body %}Login{% endblock %}
+{% block body %}
+    <div class="echoesOrangeBg">
+        <div class="container">
+            <br>
+            <br>
+            <br>
+            <br>
+            <div class="card" style="width: 350px; margin: auto;">
+                <div class="card-body pad25">
+                    <br>
+                    <label for="loginEmail">
+                        <b>Email</b>
+                    </label>
+                    <br>
+                    <input id="loginEmail" class="form-control">
+                    <br>
+                    <br>
+                    <label for="loginPassword">
+                        <b>Password</b>
+                    </label>
+                    <br>
+                    <input id="loginPassword" type="password" class="form-control">
+                    <br>
+                    <br>
+                    <button id="loginButton" class="btn-lg btn btn-primary btn-block width100">
+                        Login
+                    </button>
+                    <br>
+                    <br>
+                    <p>
+                        Don't have an account? <a href="/create-account">Sign Up</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div style="min-height: 200px;"></div>
+    </div>
+{% endblock %}
