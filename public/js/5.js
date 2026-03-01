@@ -251,7 +251,8 @@ $(document).ready(() => {
             $echoGroupLeft.addClass('col-sm-6');
             $echoGroupRight.addClass('col-sm-6');
 
-        } else {
+        }
+        else {
             $sideExpander.removeClass('displayNone');
 
             // increase size of echo-cols
