@@ -37,38 +37,23 @@
     display: none;
 }
 
+.noWrap {
+    white-space: nowrap;
+}
+
 .textLeft {
     text-align: left;
 }
 
-.echoHover {
-    color: red !important;
-    cursor: pointer;
-}
-
-body:has(.echoOne:hover) .echoOne {
-    color: red !important;
-}
-.echoOne:hover {
-    cursor: pointer;
-}
-
-body:has(.echoTwo:hover) .echoTwo {
-    color: red !important;
-}
-.echoTwo:hover {
-    cursor: pointer;
-}
-body:has(.echoThree:hover) .echoThree {
-    color: red !important;
-}
-.echoThree:hover {
-    cursor: pointer;
-}
-
-body:has(.echoFour:hover) .echoFour {
-    color: red !important;
-}
-.echoFour:hover {
+body:has(.echo[data-echo-id="1"]:hover) .echo[data-echo-id="1"],
+body:has(.echo[data-echo-id="2"]:hover) .echo[data-echo-id="2"],
+body:has(.echo[data-echo-id="3"]:hover) .echo[data-echo-id="3"],
+body:has(.echo[data-echo-id="4"]:hover) .echo[data-echo-id="4"],
+body:has(.echo[data-echo-id="5"]:hover) .echo[data-echo-id="5"],
+body:has(.echo[data-echo-id="6"]:hover) .echo[data-echo-id="6"],
+body:has(.echo[data-echo-id="7"]:hover) .echo[data-echo-id="7"],
+body:has(.echo[data-echo-id="8"]:hover) .echo[data-echo-id="8"]
+{
+    color: #c03c2d !important;
     cursor: pointer;
 }

@@ -3,20 +3,17 @@
 {% block title %}Echoes Bible | Home{% endblock %}
 
 {% block scripts %}
-    {{ parent() }}
     <link rel="stylesheet" href="{{ asset('css/base.css') }}">
 {% endblock %}
 
 {% block styles %}
-    {{ parent() }}
-    <script src="{{ asset('js/base.js') }}" type="module"></script>
-    <script src="{{ asset('js/home/home-app.js') }}" type="module"></script>
+    <script src="{{ asset('js/base.js') }}"></script>
 {% endblock %}
 
 {% block body %}
     <div class="d-flex">
 
-        <!-- Side Nav -->
+        <!-- Sidebar -->
         <nav id="sidebarNav" class="bg-dark text-white p-3 vh-100 sticky-top" style="width: 250px;">
             <img src="/image/echoes-logo.avif" class="width100 mb-3">
             <ul class="nav nav-pills flex-column gap-1">
@@ -67,24 +64,20 @@
             <hr>
             <div class="card text-center">
                 <div class="card-header text-start">
-{#                    <button class="btn btn-primary btn-sm">Do Thing</button>#}
-{#                    <button class="btn btn-secondary btn-sm">Do Thing</button>#}
-{#                    <button class="btn btn-secondary btn-sm">Do Thing</button>#}
-                    <h4 class="card-title">
-                        [Title Goes Here]
-                    </h4>
+                    <button class="btn btn-primary btn-sm">Do Thing</button>
+                    <button class="btn btn-secondary btn-sm">Do Thing</button>
+                    <button class="btn btn-secondary btn-sm">Do Thing</button>
                 </div>
                 <div class="card-body">
-{#                    <h3 class="card-title">#}
-{#                        Title Goes Here#}
-{#                    </h3>#}
-{#                    <hr>#}
+                    <h5 class="card-title">
+                    </h5>
+                    <hr>
                     <div class="container">
                         <div class="row">
                             <div id="echoGroupLeft" class="textLeft col-xs-12 col-sm-6">
                                 <h3>Numbers</h3>
                                 <br>
-                                <b>1:1</b> Yahweh <a class="echo" data-echo-id="1">spoke to Moses</a> in the wilderness of Sinai, in the
+                                <b>1:1</b> Yahweh <a class="echoOne">spoke to Moses</a> in the wilderness of Sinai, in the
                                 Tent of Meeting, on the first day of the second month, in the
                                 second year after they had come out of the land of Egypt,
                                 saying,
@@ -95,7 +88,7 @@
                                 <br>
                                 <b>3</b> from twenty
                                 years old and upward, all who are able to go out to war in Israel.
-                                You <a class="echo" data-echo-id="2">and Aaron</a> shall <a class="echo" data-echo-id="3">count them by their
+                                You <a class="echoTwo">and Aaron</a> shall <a class="echoThree">count them by their
                                     divisions. </a>
                                 <br>
                                 <b>4</b> With you there shall be a man of every tribe, each one head of his
@@ -126,25 +119,25 @@
                                 <br>
                                 <b>15</b> Of Naphtali: Ahira the son of Enan.
                                 <br>
-                                <b>16</b> <a class="echo" data-echo-id="4">These are those who were called of the
+                                <b>16</b> <a class="echoFour">These are those who were called of the
                                     congregation</a>, the princes of the tribes of their fathers; they
                                 were the heads of the thousands of Israel.
                             </div>
                             <div id="echoGroupRight" class="textLeft col-xs-12 col-sm-6">
                                 <h3>1 Corinthians</h3>
                                 <br>
-                                <a class="echo" data-echo-id="1"><b>1:1</b> Paul, called </a> to be an apostle of Jesus Christ
-                                through the will of God, <a class="echo" data-echo-id="2">and our brother Sosthenes</a>,
+                                <a class="echoOne"><b>1:1</b> Paul, called </a> to be an apostle of Jesus Christ
+                                through the will of God, <a class="echoTwo">and our brother Sosthenes</a>,
                                 <br>
-                                <a class="echo" data-echo-id="3"><b>2</b> to the assembly of God which is at Corinth—</a>
-                                those who are sanctified in Christ Jesus, <a class="echo" data-echo-id="4">called
+                                <a class="echoThree"><b>2</b> to the assembly of God which is at Corinth—</a>
+                                those who are sanctified in Christ Jesus, <a class="echoFour">called
                                     saints, with all who call on the name</a> of our Lord
                                 Jesus Christ in every place, both theirs and ours:
                                 <br>
                                 <b>3</b> Grace to you and peace from God our Father and the Lord Jesus Christ.
                             </div>
-                            <div id="sidePane" class="sideExpander card displayNone col-xs-12 col-sm-4 textLeft">
-                                <div class="card-body">
+                            <div class="sideExpander card displayNone col-xs-12 col-sm-4 textLeft">
+                                <div id="sidePaneBodyText" class="card-body">
                                 </div>
                             </div>
                         </div>

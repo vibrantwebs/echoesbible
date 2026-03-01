@@ -14,8 +14,18 @@ class HomePage extends AbstractAction {
 
     public function run(Request $request): Response
     {
+        $version = basename(parse_url($_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'], PHP_URL_PATH));
+
+        /**
+         * If trailing slug is an integer, look for that versioned home page in /previous
+         */
+        $templateFilename = 'home.html.twig';
+        if (!empty($version) && is_integer($version)) {
+            $templateFilename = "previous/home$version.html.twig";
+        }
+
         return new Response(
-            $this->twig->render('home.html.twig')
+            $this->twig->render($templateFilename)
         );
     }
 }
