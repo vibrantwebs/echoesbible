@@ -8,14 +8,14 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
-    <link href="/css/index3.css" rel="stylesheet">
-    <script src="/js/4b.js"></script>
+    <link href="/css/5.css" rel="stylesheet">
+    <script src="/OLD/js/5.js"></script>
 </head>
 <body>
 <div class="d-flex">
 
     <!-- Sidebar -->
-    <nav id="sidebarNav" class="bg-dark text-white p-3 vh-100" style="width: 250px;">
+    <nav id="sidebarNav" class="bg-dark text-white p-3 vh-100 sticky-top" style="width: 250px;">
         <img src="/image/echoes-logo.avif" class="width100 mb-3">
         <ul class="nav nav-pills flex-column gap-1">
             <li class="nav-item">
@@ -137,36 +137,9 @@
                             <br>
                             <b>3</b> Grace to you and peace from God our Father and the Lord Jesus Christ.
                         </div>
-
-                        <div class="sideExpander displayNone col-xs-12 col-sm-4">
-                            <hr>
-                            <b>Translations</b>
-                            <br>
-                            <b>Hebrew:</b> תִּפְקְדוּ אֹתָם לְצִבְאֹתָם
-                            Tifqedu otam le-tsiv’otam
-                            “You shall count them by their divisions/hosts”
-                            <br>
-                            <br>
-                            <b>LXX:</b> ἐπισκέψασθε αὐτοὺς κατὰ τὰς δυνάμεις αὐτῶν
-                            Episkesasthe autous kata tas dynameis autōn
-                            <br>
-                            <br>
-                            <b>Greek:</b> τῇ ἐκκλησίᾳ τοῦ Θεοῦ τῇ οὔσῃ ἐν Κορίνθῳ
-                            Tē ekklēsia tou Theou tē ousē en Korinthō
-                            “To the assembly of God which is in Corinth”
-                            <hr>
-                            <b>Commentary</b>
-                            <p style="color: gray">
-                                <i>
-                                    In Numbers, the census functions as more than a matter of administration; it is an act of theological ordering. The vocabulary employed for “counting” in this Parshat (Bamidbar) derives from two distinct Hebrew roots, each carrying significant conceptual weight. The verb used in this passage, pāqad (פקד), is closely associated with the idea of entrusting or appointing to responsibility. Consequently, the act of counting described here is not merely numerical but vocational: to be counted is to be entrusted. The census, therefore, delineates those who are placed under covenantal responsibility and divine oversight.
-                                    <br>
-                                    <br>
-                                    In a parallel manner, the Corinthian church is presented not as a voluntary association, but as a divinely constituted assembly, standing in continuity with Israel’s ordered community. The Greek term employed in the corresponding echo passage is ekklēsia (ἐκκλησία), which the Septuagint frequently uses to render the Hebrew qāhāl (קָהָל), the covenant assembly. Notably, qāhāl is also associated with related semantic fields that include counting and lifting up. Within Parshat Bamidbar, the phrase “lift up the heads” of the people recurs, pairing the act of enumeration with elevation and affirmation. The resulting word picture is both positive and pastoral, aligning naturally with the noun sense of qāhāl as an assembled people summoned into covenantal purpose.
-                                    <br>
-                                    <br>
-                                    Across both the Torah and its echo, the emphasis falls on the formation of a people who are simultaneously counted and entrusted. Assembly here is neither passive nor accidental; it is purposeful, directive, and yet encouraging. Those who are gathered are lifted up precisely because they are known, ordered, and commissioned within the covenantal design.
-                                </i>
-                            </p>
+                        <div class="sideExpander card displayNone col-xs-12 col-sm-4 textLeft">
+                            <div id="sidePaneBodyText" class="card-body">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -176,3 +149,7 @@
 </div>
 </body>
 </html>
+<!--
+    First paragraph. I am not just "counting" you. I am "counting ON" you. I am holding you responsible...I am
+    on you.
+-->

@@ -1,11 +1,10 @@
-ignore/
-logs/
-.idea/
-vendor/
-node_modules/
-data/
-!src/Main/Data
-!src/Portal/Data
-config/config-local.php
-config/config-production.php
-build/
+
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
