@@ -4,6 +4,12 @@ class AccountPage
 {
     constructor() {
 
+        $('#editProfileButton').on('click', () => { console.log("editProfileButton"); });
+
+        $('#myBookmarksButton').on('click', () => { console.log("myBookmarksButton"); });
+
+        $('#settingsButton').on('click', () => { console.log("settingsButton"); });
+
         $('#logoutButton').on('click', () => {
 
             let confirmLogout = new Confirm({
@@ -28,6 +34,29 @@ class AccountPage
                 }
             })
         });
+
+        $('#backToAppButton').on('click', () => {
+            window.location.href = '/';
+        });
+
+        $.ajax({
+            url: '/account-data',
+            type: 'GET',
+            dataType: 'json'
+        })
+            .done((data) => {
+
+                $('#firstName').val(data.firstName);
+                $('#lastName').val(data.lastName);
+                $('#email').val(data.email);
+
+            })
+            .fail((data) => {
+
+                // todo: handle
+                console.log("fail");
+                console.log(data);
+            });
     }
 }
 

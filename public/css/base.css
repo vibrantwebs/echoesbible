@@ -53,3 +53,13 @@
     padding: 25px;
 }
 
+.card {
+    border-radius: 25px;
+    padding: 35px;
+}
+
+* {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}

@@ -24,7 +24,7 @@
                 <li class="nav-item">
                     <a class="nav-link text-white active" href="#">
                         <i class="bi bi-compass me-2"></i>
-                        Explore Echoes
+                        Explore
                     </a>
                 </li>
                 <li class="nav-item">
@@ -60,26 +60,20 @@
                 <div class="col-xs-10 col-sm-10">
                     <b>Search</b> <input id="searchInput">
                 </div>
-                <div class="col-xs-2 col-sm-2 bolder">
+                <div id="accountLinks" class="col-xs-2 col-sm-2 bolder">
                     <a href="/login" class="echoesDarkBlue">Login</a> | <a href="/create-account" class="echoesDarkBlue">Sign Up</a>
                     <i class="bi bi-person-circle"></i>
                 </div>
             </div>
             <hr>
             <div class="card text-center">
-                <div class="card-header text-start">
-{#                    <button class="btn btn-primary btn-sm">Do Thing</button>#}
-{#                    <button class="btn btn-secondary btn-sm">Do Thing</button>#}
-{#                    <button class="btn btn-secondary btn-sm">Do Thing</button>#}
-                    <h4 class="card-title">
-                        [Title Goes Here]
-                    </h4>
-                </div>
                 <div class="card-body">
-{#                    <h3 class="card-title">#}
-{#                        Title Goes Here#}
-{#                    </h3>#}
-{#                    <hr>#}
+                    <h4 style="text-align: left;">
+                        <i class="bi bi-paperclip"></i>
+                        Echo 1 - "Numbers and Corinthians"
+                    </h4>
+                    <hr>
+                    <br>
                     <div class="container">
                         <div class="row">
                             <div id="echoGroupLeft" class="textLeft col-xs-12 col-sm-6">
@@ -145,8 +139,23 @@
                                 <b>3</b> Grace to you and peace from God our Father and the Lord Jesus Christ.
                             </div>
                             <div id="sidePane" class="sideExpander card displayNone col-xs-12 col-sm-4 textLeft">
+                                <a id="closeSidePaneButton"><i class="bi bi-x-circle-fill"></i></a>
                                 <div class="card-body">
+                                    <!-- Echo content will render here -->
                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="textLeft">
+                        <button id="moreCommentaryButton" class="btn btn-primary"><i class="bi bi-chat-right-text-fill"></i> More</button>
+                        <div id="moreCommentaryBody" class="collapse">
+                            <div class="card card-body echoesGray">
+                                More content will go here. More content will go here. More content will go here.
+                                More content will go here. More content will go here. More content will go here.
+                                More content will go here. More content will go here. More content will go here.
+                                More content will go here. More content will go here. More content will go here.
+                                More content will go here. More content will go here. More content will go here.
                             </div>
                         </div>
                     </div>

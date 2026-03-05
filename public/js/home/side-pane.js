@@ -1,6 +1,6 @@
 export default class SidePane
 {
-    constructor(test) {
+    constructor() {
 
         this.isClosed = true;
         this.echoId = null;
@@ -8,6 +8,16 @@ export default class SidePane
         this.$sidePane = $('#sidePane');
         this.$echoGroupLeft = $('#echoGroupLeft');
         this.$echoGroupRight = $('#echoGroupRight');
+
+        this.registerEventListeners();
+    }
+
+    registerEventListeners() {
+
+        $('#closeSidePaneButton').on('click', () => {
+            console.log("Close!");
+            this.close();
+        });
     }
 
     open(echoId) {

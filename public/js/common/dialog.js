@@ -7,7 +7,7 @@ class Dialog
         bodyHtml = '',
         size = '', /** modal-sm, modal-lg */
         buttons = [{text: "Done", click: () => {this.close()}}],
-        timeout = null,
+        timeout = false,
         backdrop = 'static' /** true, false, 'static' */
     }) {
 
@@ -83,7 +83,7 @@ class Confirm extends Dialog
                 {text: "Confirm", click: confirmCallback},
                 {text: "Cancel", click: cancelCallback}
             ],
-            size = 'modal-sm',
+            size = 'modal-md',
             timeout = false
         } = {}
     ) {

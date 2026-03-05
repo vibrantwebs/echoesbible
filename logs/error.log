@@ -1,0 +1,518 @@
+[05-Mar-2026 00:54:19 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 00:54:19 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:54:20 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 00:54:20 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:54:20 UTC] userId: 1
+[05-Mar-2026 00:55:03 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 00:55:03 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:55:04 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 00:55:04 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:55:04 UTC] userId: 1
+[05-Mar-2026 00:55:17 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 00:55:17 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:55:17 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 00:55:17 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:55:17 UTC] userId: 1
+[05-Mar-2026 00:55:55 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 00:55:55 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:55:55 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 00:55:55 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:55:55 UTC] userId: 1
+[05-Mar-2026 00:59:04 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 00:59:04 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:59:05 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 00:59:05 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:59:05 UTC] userId: 1
+[05-Mar-2026 00:59:20 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 00:59:20 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:59:20 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 00:59:20 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:59:20 UTC] userId: 1
+[05-Mar-2026 00:59:45 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 00:59:45 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:59:46 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 00:59:46 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 00:59:46 UTC] userId: 1
+[05-Mar-2026 01:00:18 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:00:18 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:00:19 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:00:19 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:00:19 UTC] userId: 1
+[05-Mar-2026 01:00:33 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:00:33 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:00:34 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:00:34 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:00:34 UTC] userId: 1
+[05-Mar-2026 01:01:10 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:01:10 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:01:10 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:01:10 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:01:10 UTC] userId: 1
+[05-Mar-2026 01:01:34 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:01:34 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:05:15 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:05:15 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:05:33 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:05:33 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:05:33 UTC] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET http://local.echoesbible.com/js/home/top-nav" (from "http://local.echoesbible.com/js/home/home-page.js")" at RouterListener.php line 156
+[05-Mar-2026 01:05:42 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:05:42 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:05:42 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:05:42 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:05:48 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:05:48 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:05:48 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:05:48 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:06:09 UTC] [info] Matched route "app_main_logout".
+[05-Mar-2026 01:06:09 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:06:09 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:06:09 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:06:10 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:06:10 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:06:10 UTC] [critical] Uncaught PHP Exception Doctrine\ORM\Exception\MissingIdentifierField: "The identifier id is missing for a query of App\Entity\User" at MissingIdentifierField.php line 15
+[05-Mar-2026 01:06:43 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:06:43 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:06:43 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:06:43 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:07:58 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:07:58 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:08:04 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:08:04 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:08:05 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:08:05 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:08:13 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:08:13 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:08:13 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:08:13 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:09:41 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:09:41 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:09:41 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:09:41 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:09:46 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:09:46 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:09:46 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:09:46 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:09:52 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:09:52 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:09:53 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:09:53 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:09:58 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:09:58 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:09:58 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:09:58 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:10:01 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:10:01 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:10:01 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:10:01 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:10:07 UTC] [info] Matched route "app_main_loginpage".
+[05-Mar-2026 01:10:07 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:10:11 UTC] [info] Matched route "app_main_login".
+[05-Mar-2026 01:10:11 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:10:11 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:10:11 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:10:11 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:10:11 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:10:14 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:10:14 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:10:14 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:10:14 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:10:44 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:10:44 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:10:44 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:10:44 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:11:11 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:11:11 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:11:11 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:11:11 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:11:13 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:11:13 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:11:13 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:11:13 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:11:37 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:11:37 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:11:37 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:11:37 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:11:39 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:11:39 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:11:39 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:11:39 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:11:49 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:11:49 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:11:49 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:11:49 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:12:28 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:12:28 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:12:28 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:12:28 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:13:09 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:13:09 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:13:09 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:13:09 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:13:59 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:13:59 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:14:00 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:14:00 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:15:15 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:15:15 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:15:15 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:15:15 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:15:55 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:15:55 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:15:56 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:15:56 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:16:21 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:16:21 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:16:21 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:16:21 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:16:28 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:16:28 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:16:29 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:16:29 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:16:31 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:16:31 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:16:31 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:16:31 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:16:33 UTC] [info] Matched route "app_main_logout".
+[05-Mar-2026 01:16:33 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:16:33 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:16:33 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:16:34 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:16:34 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:17:36 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:17:36 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:17:36 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:17:36 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:17:42 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:17:42 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:17:42 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:17:42 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:17:44 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:17:44 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:17:45 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:17:45 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:18:42 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:18:42 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:18:43 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:18:43 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:18:54 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:18:54 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:18:54 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:18:54 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:19:13 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:19:13 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:19:29 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:19:29 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:19:29 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:19:29 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:19:31 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:19:31 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:19:43 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:19:43 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:19:45 UTC] [info] Matched route "app_main_loginpage".
+[05-Mar-2026 01:19:45 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:19:49 UTC] [info] Matched route "app_main_login".
+[05-Mar-2026 01:19:49 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:19:49 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:19:49 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:19:49 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:19:49 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:20:02 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:20:02 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:20:02 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:20:02 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:20:08 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:20:08 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:20:09 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:20:09 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:20:10 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:20:10 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:20:14 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:20:14 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:20:14 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:20:14 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:22:02 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:22:02 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:22:03 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:22:03 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:22:30 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:22:30 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:22:30 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:22:30 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:00 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:23:00 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:01 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:23:01 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:09 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:23:09 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:09 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:23:09 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:23 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:23:23 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:23 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:23:23 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:32 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:23:32 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:32 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:23:32 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:39 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:23:39 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:39 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:23:39 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:45 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:23:45 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:46 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:23:46 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:59 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:23:59 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:23:59 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:23:59 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:24:12 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:24:12 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:24:12 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:24:12 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:24:43 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:24:43 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:24:43 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:24:43 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:24:53 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:24:53 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:25:26 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:25:26 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:25:29 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:25:29 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:25:29 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:25:29 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:26:10 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:26:10 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:26:11 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:26:11 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:26:12 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:26:12 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:26:34 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:26:34 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:26:34 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:26:34 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:26:36 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:26:36 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:26:49 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:26:49 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:26:49 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:26:49 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:26:50 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:26:50 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:27:01 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:27:01 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:27:02 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:27:02 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:27:03 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:27:03 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:27:08 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:27:08 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:27:08 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:27:08 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:27:10 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:27:10 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:27:17 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:27:17 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:27:17 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:27:17 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:27:19 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:27:19 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:27:27 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:27:27 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:27:27 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:27:27 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:27:33 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:27:33 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:28:44 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:28:44 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:28:45 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:28:45 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:28:46 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:28:46 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:29:23 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:29:23 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:29:24 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:29:24 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:29:25 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:29:25 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:29:37 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:29:37 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:29:37 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:29:37 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:29:38 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:29:38 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:29:47 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:29:47 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:29:48 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:29:48 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:29:49 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:29:49 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:30:05 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:30:05 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:30:05 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:30:05 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:30:06 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:30:06 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:30:20 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:30:20 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:30:20 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:30:20 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:30:22 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:30:22 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:30:23 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:30:23 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:30:35 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:30:35 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:30:39 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:30:39 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:30:39 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:30:39 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:30:44 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:30:44 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:30:44 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:30:44 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:30:47 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:30:47 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:31:40 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:31:40 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:31:40 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:31:40 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:31:51 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:31:51 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:31:51 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:31:51 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:32:35 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:32:35 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:32:35 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:32:35 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:33:23 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:33:24 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:33:24 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:33:24 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:33:44 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:33:44 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:33:44 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:33:44 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:34:30 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:34:30 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:34:30 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:34:30 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:36:48 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:36:48 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:36:49 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:36:49 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:37:07 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:37:07 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:37:08 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:37:08 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:37:13 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:37:13 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:37:14 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:37:14 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:37:39 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:37:39 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:37:39 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:37:39 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:38:22 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:38:22 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:38:23 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:38:23 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:38:24 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:38:24 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:38:32 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:38:32 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:38:32 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:38:32 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:39:26 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:39:26 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:39:27 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:39:27 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:40:55 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:40:55 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:40:56 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:40:56 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:41:42 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:41:42 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:41:42 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:41:42 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:42:05 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:42:05 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:42:05 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:42:05 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:42:13 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:42:13 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:42:13 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:42:13 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:42:17 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:42:17 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:42:17 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:42:17 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:43:35 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:43:35 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:43:35 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:43:35 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:43:37 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:43:37 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:43:37 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:43:37 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:43:54 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:43:54 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:44:02 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:44:02 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:44:31 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:44:31 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:44:52 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:44:52 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:45:28 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:45:28 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:45:29 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:45:29 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:45:59 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:45:59 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:46:00 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:46:00 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:46:28 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:46:28 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:46:29 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:46:29 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:47:29 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:47:29 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:47:29 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:47:29 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:47:59 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:47:59 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:47:59 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:47:59 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:48:16 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:48:16 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:48:16 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:48:16 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:48:35 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:48:35 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:48:35 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:48:35 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:48:53 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:48:53 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:48:53 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:48:53 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:49:22 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:49:22 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:49:22 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:49:22 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:49:25 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:49:25 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:49:34 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:49:34 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:49:40 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:49:40 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:49:42 UTC] [info] Matched route "app_main_sidepanedata".
+[05-Mar-2026 01:49:42 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:49:43 UTC] [info] Matched route "app_main_accountpage".
+[05-Mar-2026 01:49:43 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:49:43 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:49:43 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:49:45 UTC] [info] Matched route "app_main_index".
+[05-Mar-2026 01:49:45 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)
+[05-Mar-2026 01:49:45 UTC] [info] Matched route "app_main_accountdata".
+[05-Mar-2026 01:49:45 UTC] [info] User Deprecated: Support for MySQL < 8 is deprecated and will be removed in DBAL 5 (AbstractMySQLDriver.php:75 called by AbstractDriverMiddleware.php:32, https://github.com/doctrine/dbal/pull/6343, package doctrine/dbal)

@@ -5,6 +5,7 @@ namespace App\Controller;
 use App\Action\Page\CreateAccountPage;
 use App\Action\Data\CreateAccount;
 use App\Action\Data\SidePaneData;
+use App\Action\Data\AccountData;
 use App\Action\Page\AccountPage;
 use App\Action\Page\LoginPage;
 use App\Action\Page\HomePage;
@@ -65,16 +66,9 @@ class MainController
         return $logout->run($request);
     }
 
-    /**
-     * For at least a little while longer, we need to give the users a path "back" in case we decide our
-     * direction is wrong.
-     *
-     * Always have index pointing to latest.
-     *
-     */
-    #[Route('/5', methods: ['GET'])]
-    public function versionFive(HomePage $homePage, Request $request): Response
+    #[Route('/account-data', methods: ['GET'])]
+    public function accountData(AccountData $accountData, Request $request): Response
     {
-        return $homePage->run($request);
+        return $accountData->run($request);
     }
 }

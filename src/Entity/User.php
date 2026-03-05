@@ -4,11 +4,12 @@ namespace App\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use DateTimeImmutable;
+use JsonSerializable;
 use Exception;
 
 #[ORM\Entity]
 #[ORM\Table(name: 'user', schema: 'moose_echoesbible')]
-class User
+class User implements JsonSerializable
 {
     #[ORM\Id]
     #[ORM\GeneratedValue]
@@ -85,5 +86,17 @@ class User
     public function getFullName(): string
     {
         return $this->firstName . ' ' . $this->lastName;
+    }
+
+    public function jsonSerialize(): array
+    {
+        return [
+            'id' => $this->id,
+            'firstName' => $this->firstName,
+            'lastName' => $this->lastName,
+            'email' => $this->email,
+            'aboutMe' => $this->aboutMe,
+            'createdTimestamp' => $this->createdTimestamp->format('Y-m-d H:i:s')
+        ];
     }
 }

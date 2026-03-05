@@ -10,3 +10,15 @@ body:has(.echo[data-echo-id="8"]:hover) .echo[data-echo-id="8"]
     color: #c03c2d !important;
     cursor: pointer;
 }
+
+#closeSidePaneButton {
+    position: absolute;
+    right: 25px;
+}
+#closeSidePaneButton:hover {
+    cursor: pointer;
+}
+
+#moreCommentaryBody {
+    margin-top: 20px;
+}
