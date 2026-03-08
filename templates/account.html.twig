@@ -1,0 +1,74 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Echoes Bible | Account{% endblock %}
+
+{% block scripts %}
+    {{ parent() }}
+    <link rel="stylesheet" href="{{ asset('css/base.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/account.css') }}">
+{% endblock %}
+
+{% block styles %}
+    {{ parent() }}
+    <script src="{{ asset('js/base.js') }}"></script>
+    <script src="{{ asset('js/account/account-page.js') }}" type="module"></script>
+{% endblock %}
+
+{% block body %}
+<div>
+    <br>
+    <div class="container">
+        <h2>My Account</h2>
+        <br>
+        <div class="row">
+            <div class="col-xs-12 col-sm-3">
+                <div id="sideNav" class="card card-body pad25" style="min-height: 500px;">
+                    <img src="{{ asset('image/profile.png') }}" class="width100">
+                    <br>
+                    <p>
+                        <b><a id="editProfileButton"><i class="bi bi-person"></i> Edit Profile</a></b>
+                    </p>
+                    <p>
+                        <b><a id="myBookmarksButton"><i class="bi bi-bookmark"></i> My Bookmarks</a></b>
+                    </p>
+                    <p>
+                        <b><a id="settingsButton"><i class="bi bi-gear"></i> Settings</a></b>
+                    </p>
+                    <p>
+                        <b><a id="backToAppButton"><i class="bi bi-arrow-90deg-left"></i> Back to App</a></b>
+                    </p>
+                    <p>
+                        <b><a id="logoutButton"><i class="bi bi-box-arrow-left"></i> Logout</a></b>
+                    </p>
+                </div>
+                <br>
+            </div>
+            <div class="col-xs-12 col-sm-9">
+                <div class="card card-body">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                            <label for="firstName">First Name</label>
+                            <input id="firstName" class="form-control">
+                            <br>
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <label for="lastName">Last Name</label>
+                            <input id="lastName" class="form-control">
+                            <br>
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <label for="email">Email</label>
+                            <input id="email" class="form-control">
+                            <br>
+                        </div>
+                    </div>
+                    <br>
+                    <div>
+                        <button class="btn btn-primary">Save</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

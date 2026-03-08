@@ -1,0 +1,12 @@
+#sideNav a:hover {
+    cursor: pointer;
+}
+
+* {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.btn {
+    padding: 15px 35px 15px 35px;
+}

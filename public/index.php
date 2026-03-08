@@ -1,15 +1,13 @@
-<?php ?>
-<html>
-    <p>Choose version of Echoes Bible: </p>
-    <a href="1.html">Version 1</a>
-    <br>
-    <a href="2.html">Version 2</a>
-    <br>
-    <a href="3.html">Version 3</a>
-    <br>
-    <a href="4a.php">Version 4a ("Sub Expand")</a>
-    <br>
-    <a href="4a.php">Version 4b (Side pane / "3-Column")</a>
-    <br>
-    <a href="5.php">Version 5 - All Echoes</a>
-</html>
+<?php
+
+use App\Kernel;
+
+require_once dirname(__DIR__).'/vendor/autoload_runtime.php';
+
+return function (array $context) {
+
+    ini_set('log_errors', '1');
+    ini_set('error_log', dirname(__DIR__).'/logs/error.log');
+
+    return new Kernel($context['APP_ENV'], (bool) $context['APP_DEBUG']);
+};

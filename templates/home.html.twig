@@ -1,0 +1,166 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Echoes Bible | Home{% endblock %}
+
+{% block scripts %}
+    {{ parent() }}
+    <link rel="stylesheet" href="{{ asset('css/base.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/home.css') }}">
+{% endblock %}
+
+{% block styles %}
+    {{ parent() }}
+    <script src="{{ asset('js/base.js') }}" type="module"></script>
+    <script src="{{ asset('js/home/home-page.js') }}" type="module"></script>
+{% endblock %}
+
+{% block body %}
+    <div class="d-flex">
+
+        <!-- Side Nav -->
+        <nav id="sidebarNav" class="bg-dark text-white p-3 vh-100 sticky-top" style="width: 250px;">
+            <img src="/image/echoes-logo.avif" class="width100 mb-3">
+            <ul class="nav nav-pills flex-column gap-1">
+                <li class="nav-item">
+                    <a class="nav-link text-white active" href="#">
+                        <i class="bi bi-compass me-2"></i>
+                        Explore
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        <i class="bi bi-journal-text me-2"></i>
+                        Notes
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        <i class="bi bi-globe me-2"></i>
+                        Resources
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        <i class="bi bi-bookmarks me-2"></i>
+                        Bookmarks
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        <i class="bi bi-three-dots me-2"></i>
+                        Other
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- Main content -->
+        <main class="flex-fill p-4">
+            <div class="row">
+                <div class="col-xs-10 col-sm-10">
+                    <b>Search</b> <input id="searchInput">
+                </div>
+                <div id="accountLinks" class="col-xs-2 col-sm-2 bolder">
+                    <a href="/login" class="echoesDarkBlue">Login</a> | <a href="/create-account" class="echoesDarkBlue">Sign Up</a>
+                    <i class="bi bi-person-circle"></i>
+                </div>
+            </div>
+            <hr>
+            <div class="card text-center">
+                <div class="card-body">
+                    <h4 style="text-align: left;">
+                        <i class="bi bi-paperclip"></i>
+                        Echo 1 - "Numbers and Corinthians"
+                    </h4>
+                    <hr>
+                    <br>
+                    <div class="container">
+                        <div class="row">
+                            <div id="echoGroupLeft" class="textLeft col-xs-12 col-sm-6">
+                                <h3>Numbers</h3>
+                                <br>
+                                <b>1:1</b> Yahweh <a class="echo" data-echo-id="1">spoke to Moses</a> in the wilderness of Sinai, in the
+                                Tent of Meeting, on the first day of the second month, in the
+                                second year after they had come out of the land of Egypt,
+                                saying,
+                                <br>
+                                <b>2</b> “Take a census of all the congregation of the children
+                                of Israel, by their families, by their fathers’ houses, according to
+                                the number of the names, every male, one by one,
+                                <br>
+                                <b>3</b> from twenty
+                                years old and upward, all who are able to go out to war in Israel.
+                                You <a class="echo" data-echo-id="2">and Aaron</a> shall <a class="echo" data-echo-id="3">count them by their
+                                    divisions. </a>
+                                <br>
+                                <b>4</b> With you there shall be a man of every tribe, each one head of his
+                                fathers’ house.
+                                <br>
+                                <b>5</b> These are the names of the men who shall
+                                stand with you: Of Reuben: Elizur the son of Shedeur.
+                                <br>
+                                <b>6</b> Of Simeon: Shelumiel the son of Zurishaddai.
+                                <br>
+                                <b>7</b> Of Judah: Nahshon
+                                the son of Amminadab.
+                                <br>
+                                <b>8</b> Of Issachar: Nethanel the son of Zuar.
+                                <br>
+                                <b>9</b> Of Zebulun: Eliab the son of Helon.
+                                <br>
+                                <b>10</b> Of the children of Joseph: Of Ephraim: Elishama the son of
+                                Ammihud. Of Manasseh: Gamaliel the son of Pedahzur.
+                                <br>
+                                <b>11</b> Of Benjamin: Abidan the son of Gideoni.
+                                <br>
+                                <b>12</b> Of Dan: Ahiezer the son of Ammishaddai.
+                                <br>
+                                <b>13</b> Of Asher: Pagiel the son of Ochran.
+                                <br>
+                                <b>14</b> Of Gad: Eliasaph the son of Deuel.
+                                <br>
+                                <b>15</b> Of Naphtali: Ahira the son of Enan.
+                                <br>
+                                <b>16</b> <a class="echo" data-echo-id="4">These are those who were called of the
+                                    congregation</a>, the princes of the tribes of their fathers; they
+                                were the heads of the thousands of Israel.
+                            </div>
+                            <div id="echoGroupRight" class="textLeft col-xs-12 col-sm-6">
+                                <h3>1 Corinthians</h3>
+                                <br>
+                                <a class="echo" data-echo-id="1"><b>1:1</b> Paul, called </a> to be an apostle of Jesus Christ
+                                through the will of God, <a class="echo" data-echo-id="2">and our brother Sosthenes</a>,
+                                <br>
+                                <a class="echo" data-echo-id="3"><b>2</b> to the assembly of God which is at Corinth—</a>
+                                those who are sanctified in Christ Jesus, <a class="echo" data-echo-id="4">called
+                                    saints, with all who call on the name</a> of our Lord
+                                Jesus Christ in every place, both theirs and ours:
+                                <br>
+                                <b>3</b> Grace to you and peace from God our Father and the Lord Jesus Christ.
+                            </div>
+                            <div id="sidePane" class="sideExpander card displayNone col-xs-12 col-sm-4 textLeft">
+                                <a id="closeSidePaneButton"><i class="bi bi-x-circle-fill"></i></a>
+                                <div class="card-body">
+                                    <!-- Echo content will render here -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="textLeft">
+                        <button id="moreCommentaryButton" class="btn btn-primary"><i class="bi bi-chat-right-text-fill"></i> More</button>
+                        <div id="moreCommentaryBody" class="collapse">
+                            <div class="card card-body echoesGray">
+                                More content will go here. More content will go here. More content will go here.
+                                More content will go here. More content will go here. More content will go here.
+                                More content will go here. More content will go here. More content will go here.
+                                More content will go here. More content will go here. More content will go here.
+                                More content will go here. More content will go here. More content will go here.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+{% endblock %}

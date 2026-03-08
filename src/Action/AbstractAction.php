@@ -1,0 +1,11 @@
+<?php declare(strict_types=1);
+
+namespace App\Action;
+
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
+
+abstract class AbstractAction
+{
+    abstract public function run(Request $request): Response;
+}
