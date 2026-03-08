@@ -4,7 +4,6 @@ namespace App\Controller;
 
 use App\Action\Page\CreateAccountPage;
 use App\Action\Data\CreateAccount;
-use App\Action\Data\SidePaneData;
 use App\Action\Data\AccountData;
 use App\Action\Page\AccountPage;
 use App\Action\Page\LoginPage;
@@ -24,7 +23,7 @@ class MainController
     {
         return $homePage->run($request);
     }
-    
+
     #[Route('/create-account', methods: ['GET'])]
     public function createAccountPage(CreateAccountPage $createAccountPage, Request $request): Response
     {

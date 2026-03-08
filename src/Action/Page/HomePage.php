@@ -14,11 +14,13 @@ class HomePage extends AbstractAction {
 
     public function run(Request $request): Response
     {
-        $echoId = $request->query->getInt('echoId');
+        $echoId = $request->attributes->getInt('echoId');
 
         if (!$echoId) {
             $echoId = 1;
         }
+
+        error_log("Echo ID: $echoId");
 
         /**
          * Default to our first-ever echo (Numbers and Corinthians)
