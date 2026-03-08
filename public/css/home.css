@@ -5,7 +5,14 @@ body:has(.echo[data-echo-id="4"]:hover) .echo[data-echo-id="4"],
 body:has(.echo[data-echo-id="5"]:hover) .echo[data-echo-id="5"],
 body:has(.echo[data-echo-id="6"]:hover) .echo[data-echo-id="6"],
 body:has(.echo[data-echo-id="7"]:hover) .echo[data-echo-id="7"],
-body:has(.echo[data-echo-id="8"]:hover) .echo[data-echo-id="8"]
+body:has(.echo[data-echo-id="8"]:hover) .echo[data-echo-id="8"],
+body:has(.echo[data-echo-id="9"]:hover) .echo[data-echo-id="9"],
+body:has(.echo[data-echo-id="10"]:hover) .echo[data-echo-id="10"],
+body:has(.echo[data-echo-id="11"]:hover) .echo[data-echo-id="11"],
+body:has(.echo[data-echo-id="12"]:hover) .echo[data-echo-id="12"],
+body:has(.echo[data-echo-id="13"]:hover) .echo[data-echo-id="13"],
+body:has(.echo[data-echo-id="14"]:hover) .echo[data-echo-id="14"],
+body:has(.echo[data-echo-id="15"]:hover) .echo[data-echo-id="15"]
 {
     color: #c03c2d !important;
     cursor: pointer;
@@ -20,5 +27,5 @@ body:has(.echo[data-echo-id="8"]:hover) .echo[data-echo-id="8"]
 }
 
 #moreCommentaryBody {
-    margin-top: 20px;
+    margin-top: 10px;
 }
