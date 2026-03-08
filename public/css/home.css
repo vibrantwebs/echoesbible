@@ -29,3 +29,7 @@ body:has(.echo[data-echo-id="15"]:hover) .echo[data-echo-id="15"]
 #moreCommentaryBody {
     margin-top: 10px;
 }
+
+.hiddenData {
+    display: none !important;
+}

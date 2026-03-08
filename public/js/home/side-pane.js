@@ -30,21 +30,11 @@ export default class SidePane
         this.$echoGroupLeft.addClass('col-sm-4');
         this.$echoGroupRight.addClass('col-sm-4');
 
-        $.ajax({
-            url: '/side-pane-data',
-            type: 'POST',
-            dataType: 'json',
-            data: {
-                echoId: echoId
-            }
-        })
-            .done((data) => {
-                let echoHtml = data.html;
-                this.$sidePane.find('.card-body').html(echoHtml);
-            })
-            .fail((data) => {
-                this.$sidePane.find('.card-body').html('');
-            })
+        /**
+         * Retrieve the hidden echo data and display it inside the card body.
+         */
+        let echoHtml = $(`#hiddenData`).find(`[data-echo-id=${echoId}]`).html();
+        this.$sidePane.find('.card-body').html(echoHtml);
     }
 
     close() {

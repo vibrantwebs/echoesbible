@@ -15,21 +15,16 @@ use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Attribute\Route;
 use Symfony\Component\HttpFoundation\Request;
 
-#[Route('/')]
 class MainController
 {
-    #[Route('', methods: ['GET'])]
-    public function index(HomePage $homePage, Request $request): Response
+    // todo: If no "/e/{echoId}" specified,
+    #[Route('/', methods: ['GET'])]
+    #[Route('/e/{echoId}', methods: ['GET'])]
+    public function homePage(HomePage $homePage, Request $request): Response
     {
         return $homePage->run($request);
     }
-
-    #[Route('/side-pane-data', methods: ['POST'])]
-    public function sidePaneData(SidePaneData $sidePaneData, Request $request): Response
-    {
-        return $sidePaneData->run($request);
-    }
-
+    
     #[Route('/create-account', methods: ['GET'])]
     public function createAccountPage(CreateAccountPage $createAccountPage, Request $request): Response
     {
