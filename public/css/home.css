@@ -42,8 +42,11 @@ body:has(.echo[data-echo-id="15"]:hover) .echo[data-echo-id="15"]
 
 .echoSubGroupLeft, .echoSubGroupRight {
     text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
-.echoSubGroupLeft {
-    padding-bottom: 15px;
+#echoGroup {
+    max-height: 500px;
+    overflow-y: auto;
 }

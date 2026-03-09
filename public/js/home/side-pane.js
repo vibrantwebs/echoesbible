@@ -6,8 +6,9 @@ export default class SidePane
         this.echoId = null;
 
         this.$sidePane = $('#sidePane');
+        this.$echoGroup = $('#echoGroup');
         this.$echoSubGroupLeft = $('.echoSubGroupLeft');
-        // this.$echoSubGroupRight = $('.echoSubGroupRight');
+        this.$echoSubGroupRight = $('.echoSubGroupRight');
 
         this.registerEventListeners();
     }
@@ -32,10 +33,13 @@ export default class SidePane
         this.echoId = echoId;
 
         this.$sidePane.removeClass('displayNone');
-        this.$echoSubGroupLeft.removeClass('col-sm-6');
-        //this.$echoSubGroupRight.removeClass('col-sm-6');
-        this.$echoSubGroupLeft.addClass('col-sm-4');
+        this.$echoGroup.removeClass('col-sm-12');
+        this.$echoGroup.addClass('col-sm-8');
+
         // this.$echoSubGroupRight.addClass('col-sm-4');
+        // this.$echoSubGroupLeft.addClass('col-sm-4');
+        // this.$echoSubGroupRight.removeClass('col-sm-6');
+        // this.$echoSubGroupLeft.removeClass('col-sm-6');
 
         /**
          * Retrieve the hidden echo data and display it inside the card body.
@@ -49,10 +53,13 @@ export default class SidePane
     close() {
 
         this.$sidePane.addClass('displayNone');
-        this.$echoSubGroupLeft.removeClass('col-sm-4');
-        //this.$echoSubGroupRight.removeClass('col-sm-4');
-        this.$echoSubGroupLeft.addClass('col-sm-6');
-        this.$echoSubGroupRight.addClass('col-sm-6');
+        this.$echoGroup.removeClass('col-sm-8');
+        this.$echoGroup.addClass('col-sm-12');
+
+        // this.$echoSubGroupRight.removeClass('col-sm-4');
+        // this.$echoSubGroupLeft.removeClass('col-sm-4');
+        // this.$echoSubGroupRight.addClass('col-sm-6');
+        // this.$echoSubGroupLeft.addClass('col-sm-6');
 
         this.echoId = null;
         this.$sidePane.find('card-body').html('');
