@@ -30,6 +30,20 @@ body:has(.echo[data-echo-id="15"]:hover) .echo[data-echo-id="15"]
     margin-top: 10px;
 }
 
-.hiddenData {
+#hiddenData {
     display: none !important;
+}
+
+#exploreSubMenu .nav-link {
+    font-size: 0.9rem;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.echoSubGroupLeft, .echoSubGroupRight {
+    text-align: left;
+}
+
+.echoSubGroupLeft {
+    padding-bottom: 15px;
 }

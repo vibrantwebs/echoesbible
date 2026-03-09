@@ -22,10 +22,29 @@
             <img src="/image/echoes-logo.avif" class="width100 mb-3">
             <ul class="nav nav-pills flex-column gap-1">
                 <li class="nav-item">
-                    <a class="nav-link text-white active" href="#">
+                    <a id="exploreLink" class="nav-link text-white active" href="javascript:void(0);">
                         <i class="bi bi-compass me-2"></i>
                         Explore
                     </a>
+                    <ul id="exploreSubMenu" class="nav flex-column gap-1 ms-3" style="display: none;">
+                        <br>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/e/1">Numbers and Corinthians</a>
+                            <hr>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/e/2">Leviticus and Romans #1</a>
+                            <hr>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/e/3">Leviticus and Romans #2</a>
+                            <hr>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/e/4">Leviticus and Romans #3</a>
+                            <hr>
+                        </li>
+                    </ul>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-white" href="#">
@@ -70,18 +89,16 @@
                 <div class="card-body">
                     <h4 style="text-align: left;">
                         <i class="bi bi-paperclip"></i>
-                        {% block echoTitle %}{% endblock %}
+                        {% block echoGroupTitle %}{% endblock %}
                     </h4>
                     <hr>
                     <br>
                     <div class="container">
                         <div class="row">
-                            <div id="echoGroupLeft" class="textLeft col-xs-12 col-sm-6">
-                                {% block echoGroupLeft %}{% endblock %}
-                            </div>
-                            <div id="echoGroupRight" class="textLeft col-xs-12 col-sm-6">
-                                {% block echoGroupRight %}{% endblock %}
-                            </div>
+
+                            {% block echoGroupBody %}
+                            {% endblock %}
+
                             <div id="sidePane" class="sideExpander card displayNone col-xs-12 col-sm-4 textLeft">
                                 <a id="closeSidePaneButton"><i class="bi bi-x-circle-fill"></i></a>
                                 <div class="card-body">

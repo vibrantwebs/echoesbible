@@ -14,19 +14,17 @@ class HomePage extends AbstractAction {
 
     public function run(Request $request): Response
     {
-        $echoId = $request->attributes->getInt('echoId');
+        $echoGroupId = $request->attributes->getInt('echoGroupId');
 
-        if (!$echoId) {
-            $echoId = 1;
+        if (!$echoGroupId) {
+            $echoGroupId = 1;
         }
-
-        error_log("Echo ID: $echoId");
 
         /**
          * Default to our first-ever echo (Numbers and Corinthians)
          * Otherwise render the specific echo template.
          */
-        $templateFilename = "echoes/$echoId.html.twig";
+        $templateFilename = "echo-groups/$echoGroupId.html.twig";
 
         return new Response(
             $this->twig->render($templateFilename)

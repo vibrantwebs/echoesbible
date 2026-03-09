@@ -18,7 +18,7 @@ class MainController
 {
     // todo: If no "/e/{echoId}" specified,
     #[Route('/', methods: ['GET'])]
-    #[Route('/e/{echoId}', methods: ['GET'])]
+    #[Route('/e/{echoGroupId}', methods: ['GET'])]
     public function homePage(HomePage $homePage, Request $request): Response
     {
         return $homePage->run($request);
