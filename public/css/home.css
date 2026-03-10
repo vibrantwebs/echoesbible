@@ -12,7 +12,12 @@ body:has(.echo[data-echo-id="11"]:hover) .echo[data-echo-id="11"],
 body:has(.echo[data-echo-id="12"]:hover) .echo[data-echo-id="12"],
 body:has(.echo[data-echo-id="13"]:hover) .echo[data-echo-id="13"],
 body:has(.echo[data-echo-id="14"]:hover) .echo[data-echo-id="14"],
-body:has(.echo[data-echo-id="15"]:hover) .echo[data-echo-id="15"]
+body:has(.echo[data-echo-id="15"]:hover) .echo[data-echo-id="15"],
+body:has(.echo[data-echo-id="16"]:hover) .echo[data-echo-id="16"],
+body:has(.echo[data-echo-id="17"]:hover) .echo[data-echo-id="17"],
+body:has(.echo[data-echo-id="18"]:hover) .echo[data-echo-id="18"],
+body:has(.echo[data-echo-id="19"]:hover) .echo[data-echo-id="19"],
+body:has(.echo[data-echo-id="29"]:hover) .echo[data-echo-id="20"]
 {
     color: #c03c2d !important;
     cursor: pointer;
@@ -49,4 +54,8 @@ body:has(.echo[data-echo-id="15"]:hover) .echo[data-echo-id="15"]
 #echoGroup {
     max-height: 500px;
     overflow-y: auto;
+}
+
+#exploreSubMenu a.nav-link {
+    font-size: 10px;
 }
