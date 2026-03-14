@@ -14,15 +14,17 @@ class HomePage extends AbstractAction {
 
     public function run(Request $request): Response
     {
-        $version = basename(parse_url($_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'], PHP_URL_PATH));
+        $echoGroupId = $request->attributes->getInt('echoGroupId');
+
+        if (!$echoGroupId) {
+            $echoGroupId = 1;
+        }
 
         /**
-         * If trailing slug is an integer, look for that versioned home page in /previous
+         * Default to our first-ever echo (Numbers and Corinthians)
+         * Otherwise render the specific echo template.
          */
-        $templateFilename = 'home.html.twig';
-        if (!empty($version) && is_integer($version)) {
-            $templateFilename = "previous/home$version.html.twig";
-        }
+        $templateFilename = "echo-groups/$echoGroupId.html.twig";
 
         return new Response(
             $this->twig->render($templateFilename)

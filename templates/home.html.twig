@@ -22,10 +22,62 @@
             <img src="/image/echoes-logo.avif" class="width100 mb-3">
             <ul class="nav nav-pills flex-column gap-1">
                 <li class="nav-item">
-                    <a class="nav-link text-white active" href="#">
+                    <a id="exploreLink" class="nav-link text-white active" href="javascript:void(0);">
                         <i class="bi bi-compass me-2"></i>
                         Explore
                     </a>
+                    <div id="exploreSubMenu" class="nav flex-column gap-1 ms-3" style="display: none;">
+                        <ul>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" href="/e/1">Numbers and Corinthians</a>
+                                <hr>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" href="/e/2">Leviticus and Romans</a>
+                                <hr>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" href="/e/3">Leviticus 5 and Romans 1:32</a>
+                                <hr>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" href="/e/4">Leviticus 5:7 and Romans 2</a>
+                                <hr>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" href="/e/5">p19 (Sectional Related Comments)</a>
+                                <hr>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" href="/e/6">p40 (Size Disparity Example)</a>
+                                <hr>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" href="/e/7">p73 (Multi-Verse Commentary)</a>
+                                <hr>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" href="/e/8">p76 (Most Complex Page)</a>
+                                <hr>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" href="/e/9">p95 (Interesting Mapping of Commentary)</a>
+                                <hr>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" href="/e/10">p96 + 97 (Fascinating Opportunity)</a>
+                                <hr>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" href="/e/11">p99 (Another Fascinating Opportunity)</a>
+                                <hr>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" href="/e/12">The Great Restart</a>
+                                <hr>
+                            </li>
+                        </ul>
+                    </div>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-white" href="#">
@@ -70,78 +122,24 @@
                 <div class="card-body">
                     <h4 style="text-align: left;">
                         <i class="bi bi-paperclip"></i>
-                        Echo 1 - "Numbers and Corinthians"
+                        {% block echoGroupTitle %}{% endblock %}
                     </h4>
                     <hr>
                     <br>
                     <div class="container">
                         <div class="row">
-                            <div id="echoGroupLeft" class="textLeft col-xs-12 col-sm-6">
-                                <h3>Numbers</h3>
-                                <br>
-                                <b>1:1</b> Yahweh <a class="echo" data-echo-id="1">spoke to Moses</a> in the wilderness of Sinai, in the
-                                Tent of Meeting, on the first day of the second month, in the
-                                second year after they had come out of the land of Egypt,
-                                saying,
-                                <br>
-                                <b>2</b> “Take a census of all the congregation of the children
-                                of Israel, by their families, by their fathers’ houses, according to
-                                the number of the names, every male, one by one,
-                                <br>
-                                <b>3</b> from twenty
-                                years old and upward, all who are able to go out to war in Israel.
-                                You <a class="echo" data-echo-id="2">and Aaron</a> shall <a class="echo" data-echo-id="3">count them by their
-                                    divisions. </a>
-                                <br>
-                                <b>4</b> With you there shall be a man of every tribe, each one head of his
-                                fathers’ house.
-                                <br>
-                                <b>5</b> These are the names of the men who shall
-                                stand with you: Of Reuben: Elizur the son of Shedeur.
-                                <br>
-                                <b>6</b> Of Simeon: Shelumiel the son of Zurishaddai.
-                                <br>
-                                <b>7</b> Of Judah: Nahshon
-                                the son of Amminadab.
-                                <br>
-                                <b>8</b> Of Issachar: Nethanel the son of Zuar.
-                                <br>
-                                <b>9</b> Of Zebulun: Eliab the son of Helon.
-                                <br>
-                                <b>10</b> Of the children of Joseph: Of Ephraim: Elishama the son of
-                                Ammihud. Of Manasseh: Gamaliel the son of Pedahzur.
-                                <br>
-                                <b>11</b> Of Benjamin: Abidan the son of Gideoni.
-                                <br>
-                                <b>12</b> Of Dan: Ahiezer the son of Ammishaddai.
-                                <br>
-                                <b>13</b> Of Asher: Pagiel the son of Ochran.
-                                <br>
-                                <b>14</b> Of Gad: Eliasaph the son of Deuel.
-                                <br>
-                                <b>15</b> Of Naphtali: Ahira the son of Enan.
-                                <br>
-                                <b>16</b> <a class="echo" data-echo-id="4">These are those who were called of the
-                                    congregation</a>, the princes of the tribes of their fathers; they
-                                were the heads of the thousands of Israel.
-                            </div>
-                            <div id="echoGroupRight" class="textLeft col-xs-12 col-sm-6">
-                                <h3>1 Corinthians</h3>
-                                <br>
-                                <a class="echo" data-echo-id="1"><b>1:1</b> Paul, called </a> to be an apostle of Jesus Christ
-                                through the will of God, <a class="echo" data-echo-id="2">and our brother Sosthenes</a>,
-                                <br>
-                                <a class="echo" data-echo-id="3"><b>2</b> to the assembly of God which is at Corinth—</a>
-                                those who are sanctified in Christ Jesus, <a class="echo" data-echo-id="4">called
-                                    saints, with all who call on the name</a> of our Lord
-                                Jesus Christ in every place, both theirs and ours:
-                                <br>
-                                <b>3</b> Grace to you and peace from God our Father and the Lord Jesus Christ.
+
+                            <div id="echoGroup" class="col-xs-12 col-sm-12">
+                                {% block echoGroupBody %}
+                                {% endblock %}
                             </div>
                             <div id="sidePane" class="sideExpander card displayNone col-xs-12 col-sm-4 textLeft">
                                 <a id="closeSidePaneButton"><i class="bi bi-x-circle-fill"></i></a>
                                 <div class="card-body">
                                     <!-- Echo content will render here -->
+                                </div>
+                                <div id="hiddenData">
+                                    {% block hiddenData %}{% endblock %}
                                 </div>
                             </div>
                         </div>

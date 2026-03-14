@@ -12,7 +12,12 @@ body:has(.echo[data-echo-id="11"]:hover) .echo[data-echo-id="11"],
 body:has(.echo[data-echo-id="12"]:hover) .echo[data-echo-id="12"],
 body:has(.echo[data-echo-id="13"]:hover) .echo[data-echo-id="13"],
 body:has(.echo[data-echo-id="14"]:hover) .echo[data-echo-id="14"],
-body:has(.echo[data-echo-id="15"]:hover) .echo[data-echo-id="15"]
+body:has(.echo[data-echo-id="15"]:hover) .echo[data-echo-id="15"],
+body:has(.echo[data-echo-id="16"]:hover) .echo[data-echo-id="16"],
+body:has(.echo[data-echo-id="17"]:hover) .echo[data-echo-id="17"],
+body:has(.echo[data-echo-id="18"]:hover) .echo[data-echo-id="18"],
+body:has(.echo[data-echo-id="19"]:hover) .echo[data-echo-id="19"],
+body:has(.echo[data-echo-id="29"]:hover) .echo[data-echo-id="20"]
 {
     color: #c03c2d !important;
     cursor: pointer;
@@ -28,4 +33,44 @@ body:has(.echo[data-echo-id="15"]:hover) .echo[data-echo-id="15"]
 
 #moreCommentaryBody {
     margin-top: 10px;
+}
+
+#hiddenData {
+    display: none !important;
+}
+
+.echoSubGroupLeft, .echoSubGroupRight {
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#echoGroup {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+#exploreSubMenu {
+    margin-top: 2px;
+    margin-left: 2px !important;
+    height: 400px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-top: 20px;
+    direction: rtl;
+    text-align: left;
+    scrollbar-width: thin;
+    color-scheme: dark;
+}
+#exploreSubMenu a.nav-link {
+    font-size: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+#exploreSubMenu ul {
+    padding: 0;
+}
+#exploreSubMenu li {
+    list-style: none;
+    margin: 0;
 }
