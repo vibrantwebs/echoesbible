@@ -39,12 +39,6 @@ body:has(.echo[data-echo-id="29"]:hover) .echo[data-echo-id="20"]
     display: none !important;
 }
 
-#exploreSubMenu .nav-link {
-    font-size: 0.9rem;
-    padding-top: 2px;
-    padding-bottom: 2px;
-}
-
 .echoSubGroupLeft, .echoSubGroupRight {
     text-align: left;
     padding-top: 20px;
@@ -56,6 +50,27 @@ body:has(.echo[data-echo-id="29"]:hover) .echo[data-echo-id="20"]
     overflow-y: auto;
 }
 
+#exploreSubMenu {
+    margin-top: 2px;
+    margin-left: 2px !important;
+    height: 400px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-top: 20px;
+    direction: rtl;
+    text-align: left;
+    scrollbar-width: thin;
+    color-scheme: dark;
+}
 #exploreSubMenu a.nav-link {
     font-size: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+#exploreSubMenu ul {
+    padding: 0;
+}
+#exploreSubMenu li {
+    list-style: none;
+    margin: 0;
 }
